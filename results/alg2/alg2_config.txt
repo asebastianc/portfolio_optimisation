@@ -1,0 +1,10 @@
+Algorithm 2 Configuration
+----------------------------------------------
+• Uncertainty implementation: True.
+• Second constraint: None.
+• Reference points: [0.2, 0.02], [0.4, 0.07].
+• Population size: 100.
+• Epsilon: 0.01.
+• Number of generations: 200.
+• Number of iterations (n): 400.
+• Seed for each iteration: n.

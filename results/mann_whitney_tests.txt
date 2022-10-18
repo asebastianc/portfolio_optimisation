@@ -1,0 +1,7 @@
+Mann-Whitney U Test Return:
+        U-val alternative  p-val       RBC      CLES
+MWU  119436.0   two-sided    0.0  0.999438  0.000281
+**********************************************************
+Mann-Whitney U Test Risk:
+           U-val alternative  p-val       RBC      CLES
+MWU  381184272.5   two-sided    0.0 -0.794274  0.897137
