@@ -70,4 +70,4 @@ For comparing the GA's open the `analysis` folder inside `code`, there will be t
 
 ## Report
 
-Report available as `report.pdf` inside `report` folder. To replicate it please download and unzip `report.zip`, then compile it using `LaTex`. Due to `report.pdf`'s high resolution plots, there is a high probability of user issues when opening the file. For this reason, a compressed version can be found [here](https://drive.google.com/file/d/1lL_af-fXmmXB5kK0krifOHRDak6agRuN/view?usp=sharing).
+Report available as `report.pdf` inside `report` folder. To replicate it please download and unzip `report.zip`, then compile it using `LaTex`. Due to `report.pdf`'s high resolution plots, there is a high probability of user issues when opening the file. For this reason, a compressed version can be found [here](https://drive.google.com/file/d/19ayAbVY1j79N-vZYMaDQvqu-JXo4OKHL/view?usp=sharing).
